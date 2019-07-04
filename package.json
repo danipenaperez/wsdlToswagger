@@ -1,0 +1,17 @@
+{
+  "name": "wsdltoswagger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "apiconnect-wsdl": "^1.7.10",
+    "file-system": "^2.2.2",
+    "js-yaml": "^3.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
