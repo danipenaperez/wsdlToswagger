@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "apiconnect-wsdl": "^1.7.10",
+    "apiconnect-wsdl": "^1.8.31",
     "file-system": "^2.2.2",
     "js-yaml": "^3.13.1"
   },
